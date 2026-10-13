@@ -6,7 +6,7 @@ backend/gitmind.db
 backend/.venv/
 backend/venv/
 backend/.env
-backend/models/*.joblib
+
 backend/datasets/health_dataset.csv
 backend/datasets/category_dataset.csv
 
