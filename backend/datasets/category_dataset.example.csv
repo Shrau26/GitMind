@@ -1,0 +1,91 @@
+text,category
+"A fast web framework for building APIs and websites with routing and middleware support",web-framework
+"Lightweight HTTP server framework with request routing, sessions, and templating for building web apps",web-framework
+"Full-stack web framework with an ORM, admin panel, and built-in authentication",web-framework
+"Minimalist backend framework for building REST APIs with middleware and dependency injection",web-framework
+"Frontend framework for building single page applications with components and reactive state",web-framework
+"Server-side rendering framework for building fast websites with file based routing",web-framework
+"Microframework for building small web services and APIs quickly",web-framework
+"Async web framework built for high concurrency HTTP servers",web-framework
+"Framework for building GraphQL APIs with schema validation and resolvers",web-framework
+"Component based UI framework with routing and state management built in",web-framework
+"Command line tool for automating file management and deployment tasks",cli-tool
+"Terminal application for managing cloud infrastructure from the command line",cli-tool
+"CLI utility that scaffolds new projects from templates",cli-tool
+"Command line interface for interacting with a package registry and publishing packages",cli-tool
+"Terminal based tool for searching and replacing text across many files quickly",cli-tool
+"CLI for automating repetitive shell tasks and scripting workflows",cli-tool
+"Command line client for interacting with a REST API from your terminal",cli-tool
+"Cross platform command line tool for compressing and extracting archives",cli-tool
+"Terminal utility for monitoring system resources like CPU and memory usage",cli-tool
+"Command line password manager with encrypted local storage",cli-tool
+"Deep learning library for training and evaluating neural network models",ml-library
+"Machine learning toolkit with classifiers, regressors, and clustering algorithms",ml-library
+"Library for building and training transformer based language models",ml-library
+"Framework for computer vision tasks like object detection and image classification",ml-library
+"Reinforcement learning library with environments and training algorithms",ml-library
+"Library for natural language processing including tokenization and embeddings",ml-library
+"Gradient boosting library optimized for speed on tabular data",ml-library
+"Library for building and running machine learning pipelines at scale",ml-library
+"Toolkit for time series forecasting with statistical and neural models",ml-library
+"Library providing pretrained models for speech recognition and audio processing",ml-library
+"2D platformer game engine written in C++ with a built in level editor",game
+"Physics based puzzle game built with a custom rendering engine",game
+"Multiplayer strategy game with procedurally generated maps",game
+"3D game engine with a visual scripting system and asset pipeline",game
+"Retro style arcade game built for the browser using canvas rendering",game
+"Roguelike dungeon crawler with turn based combat and permadeath",game
+"Game engine framework for building 2D pixel art games",game
+"Open source clone of a classic tower defense game",game
+"Voxel based sandbox game with crafting and building mechanics",game
+"Card game engine supporting custom rulesets and online multiplayer",game
+"Cross platform mobile app for tracking daily habits and reminders",mobile-app
+"iOS and Android app for managing personal finances and budgets",mobile-app
+"Mobile app framework for building native apps with a single codebase",mobile-app
+"Fitness tracking app that syncs with wearable devices",mobile-app
+"Note taking mobile app with offline sync and markdown support",mobile-app
+"Mobile app for scanning documents and converting them to PDF",mobile-app
+"Social mobile app for sharing photos with friends and groups",mobile-app
+"Grocery list and meal planning app for iOS and Android",mobile-app
+"Mobile app template with authentication and push notifications built in",mobile-app
+"Ride sharing mobile app client with real time map tracking",mobile-app
+"Documentation site generator that turns markdown files into a static website",documentation
+"Interactive API reference and documentation viewer",documentation
+"Static site generator focused on technical documentation and tutorials",documentation
+"Collection of guides and tutorials for learning a programming language",documentation
+"Documentation theme with search, versioning, and dark mode support",documentation
+"Tool for auto generating API docs from source code comments",documentation
+"Knowledge base wiki system for internal team documentation",documentation
+"Style guide and component documentation for a design system",documentation
+"Book style documentation generator with chapters and a table of contents",documentation
+"Changelog and release notes generator for open source projects",documentation
+"Command line data pipeline tool for extracting transforming and loading data",data-tool
+"Library for reading, cleaning, and analyzing tabular datasets",data-tool
+"Data visualization library for building interactive charts and dashboards",data-tool
+"ETL framework for orchestrating scheduled data workflows",data-tool
+"Database migration tool for versioning schema changes",data-tool
+"Tool for validating and profiling large CSV and JSON datasets",data-tool
+"Library for connecting to and querying multiple database engines",data-tool
+"Data warehouse query engine optimized for analytical workloads",data-tool
+"Tool for anonymizing and masking sensitive data in datasets",data-tool
+"Streaming data processing library for real time analytics pipelines",data-tool
+"Infrastructure as code tool for provisioning cloud resources",infrastructure
+"Container orchestration platform for deploying and scaling services",infrastructure
+"CI/CD pipeline tool for automating builds tests and deployments",infrastructure
+"Service mesh for managing traffic between microservices",infrastructure
+"Configuration management tool for automating server provisioning",infrastructure
+"Monitoring and alerting system for distributed infrastructure",infrastructure
+"Load balancer and reverse proxy for routing web traffic",infrastructure
+"Secrets management tool for storing and rotating credentials securely",infrastructure
+"Log aggregation and analysis platform for distributed systems",infrastructure
+"Terraform provider for managing cloud networking resources",infrastructure
+"Personal blog theme with a minimalist writing focused design",other
+"Collection of curated links and resources on a niche topic",other
+"Simple to do list app with no dependencies",other
+"Recipe collection and cookbook website",other
+"Portfolio website template for developers and designers",other
+"Trivia quiz game for testing general knowledge",other
+"Random name and idea generator for brainstorming",other
+"Digital garden for organizing personal notes and thoughts",other
+"Wedding planning checklist and website generator",other
+"Weather forecast display widget for embedding on websites",other

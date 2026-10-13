@@ -1,0 +1,43 @@
+# Backend
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.pyc
+backend/gitmind.db
+backend/.venv/
+backend/venv/
+backend/.env
+backend/models/*.joblib
+backend/datasets/health_dataset.csv
+backend/datasets/category_dataset.csv
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+backend/datasets/.cache/
+
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+venv/
+
+# Frontend dependencies and build output
+node_modules/
+dist/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Credentials
+serviceAccountKey.json
